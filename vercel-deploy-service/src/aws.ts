@@ -3,10 +3,10 @@ import fs from "fs";
 import path from "path";
 
 const s3 = new S3({
-  accessKeyId: "316a1601c97ba28ae7df61fb4baaf4ed",
+  accessKeyId: "main nhi bata rha",
   secretAccessKey:
-    "d54d6fc5b056eb373fe550b4693f95c60de8f713b1b672e941f6f54dab094f87",
-  endpoint: "https://2d98073c5d0cf875919ade03091d9795.r2.cloudflarestorage.com",
+    "main nhi bata rha",
+  endpoint: "main nhi bata rha",
 });
 
 // output/asdasd
